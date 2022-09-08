@@ -1,0 +1,213 @@
+*{
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.obshi{
+    height: 31px;
+    width: 100%;
+    padding-top: 10px;
+    background-color: #f1f1f1;
+}
+#lo{
+    background-color: #db362a;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px;
+}
+#bed{
+    padding-right: 10px;
+    font-size: 14px;
+}
+#lo:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+.hd{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px;
+}
+.hdi{
+    background-color: #F1F1F1;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px 20px;
+    margin-left: 797px;
+}
+.hd:hover{
+    background-color: #CCCCCC;
+}
+.hdi:hover{
+    background-color: #CCCCCC;
+}
+.bg{
+    width: 100%;
+    height: 110vh;
+    background-image: url(./hotel.jpg);
+}
+.rs{
+    width: 560px;
+    height: 325px;
+    padding: 200px 30px;
+    padding-bottom: 0;
+
+}
+.hotel{
+    background-color:#db362a;
+    padding: 10px 10px;
+}
+.hotel h2{
+    color: white;
+    font-weight: 400;
+    font-size: 30px; 
+}
+.pr{
+    background-color: white;
+}
+.bolo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.date{
+    width: 260px;
+    height: 36px;
+    color: grey;
+    border-color: white;
+}
+.poyon{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.but{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #616161;
+    width: 200px;
+    height: 40px;
+}
+#fa{
+    padding-right: 20px;
+}
+.but:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+.mid{
+    background-color: #F1F1F1;
+}
+#r{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 15px;
+    padding-top: 25px;
+}
+#p{
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.fr{
+    display: flex;
+    margin-top: 22px;
+    justify-content: space-around;
+}
+.but1{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 40px;
+}
+.but1:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+.simo{
+    display: flex;
+    margin: 0px 10px;
+    background-color: #f1f1f1;
+
+}
+.i{
+  height: 550px;
+  margin-left: 25PX;
+
+}
+.i img{
+    width: 400px;
+    height: 271px;
+    padding: 10px;
+}
+.i h3{
+    font-weight: 400;
+    font-size: 23px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.port{
+    padding-left: 15px;
+    padding-top: 15px;
+    color: grey;
+    font-size: 14px;
+}
+.kal{
+    text-decoration: none;
+    color: rgb(228, 218, 218);
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: black;
+position: relative;
+top: 45px;
+right: 20%;
+}
+.kal:hover{
+    background-color: #f5f3f3;
+    color: black;
+    border: 1px solid black;  
+}
+#ic{
+    padding: 2px;
+    margin-left: 25px;
+}
+.har{
+    width: 100%;
+    height: 100vh;
+    background-color: #CCCCCC;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 30% 65%;
+    grid-template-rows: auto;
+}
+.ba{
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 35px;
+}
+.con2 img{
+    width: 100%;
+    position: relative;
+    margin-left: 57px;
+}
+.piho{
+    margin-left: 35px;
+    padding-top: 15px;
+
+}
+.lk{
+    margin-left: 35px;
+    padding: 10px;
+}
